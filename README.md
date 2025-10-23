@@ -1,4 +1,4 @@
-﻿# Webscraping of hotel pricing data. Built for SMART recruitment by Alex Valdes Calderon
+# Webscraping of hotel pricing data. Built for SMART recruitment by Alex Valdes Calderon
 
 # Dependencies
 
