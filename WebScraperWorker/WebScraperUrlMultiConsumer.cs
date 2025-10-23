@@ -52,6 +52,7 @@ public static class WebScraperUrlMultiConsumer
                         // Acknowledge the message, so it won't be re-delivered
                         await channel.BasicAckAsync(ea.DeliveryTag, multiple: false);
                         Console.WriteLine($"[Consumer {id}] Acked");
+                        Console.WriteLine($"[Consumer {id}] Crawling URL: {url}...");
 
                         var result = await WebPriceCrawler.CrawlAsync(
                             startUrl: url,

@@ -19,8 +19,6 @@ Projects:
 
 # Examples of URLs to scrape
 
-	1.  https://www.hermosainn.com/ – Hermosa Inn, 43 casitas in Paradise Valley, Arizona. 
-	2.	https://www.montecitoinn.com/ – Montecito Inn, historic small hotel in Montecito, California.
-	3.	https://www.jeffersondc.com/ – The Jefferson, boutique hotel in Washington D.C. with 99 rooms & suites.
-	4.	https://www.21broad.com/ – 21 Broad, a small luxury boutique hotel in Nantucket, Massachusetts.
-	5.	https://www.iroquoisnyhotel.com/ – The Iroquois Hotel New York, boutique hotel in Manhattan, New York City.
+	1.  https://www.booking.com/rooms/city/us/ojai.html
+	2.  https://boutiquehotelhub.com/boutique-hotels/united-states/
+	 

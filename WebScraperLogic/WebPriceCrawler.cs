@@ -150,6 +150,7 @@ public class WebPriceCrawler
             if (!string.IsNullOrEmpty(cur))
             { //Ignore false positives with no currency
                 dict[key] = new PriceRecord(amount, cur, priceName);
+                Console.WriteLine("Price found:: " + key + " => " + dict[key].ToString());
             }
         }
     }
